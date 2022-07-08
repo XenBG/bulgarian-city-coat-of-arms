@@ -1,0 +1,250 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 699 1040" width="699" height="1040">
+	<title>Pleven-svg</title>
+	<defs>
+		<radialGradient id="g1" cx="126" cy="316.3" r="432.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset=".5" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#f0f0f0"/>
+		</radialGradient>
+		<radialGradient id="g2" cx="470.5" cy="760.3" r="451.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#f5a115"/>
+			<stop offset="1" stop-color="#e39209"/>
+		</radialGradient>
+		<linearGradient id="g3" x1="257.7" y1="650.1" x2="439.3" y2="650.1" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset=".5" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#f0f0f0"/>
+		</linearGradient>
+		<linearGradient id="g4" x1="260" y1="480.4" x2="479.9" y2="479.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset=".5" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#f0f0f0"/>
+		</linearGradient>
+		<radialGradient id="g5" cx="498" cy="533.8" r="51.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset=".5" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#f0f0f0"/>
+		</radialGradient>
+		<linearGradient id="g6" x1="569.9" y1="735.4" x2="499.2" y2="735.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset=".5" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#f0f0f0"/>
+		</linearGradient>
+		<radialGradient id="g7" cx="513.3" cy="730.3" r="42.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset=".5" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#f0f0f0"/>
+		</radialGradient>
+		<radialGradient id="g8" cx="200.9" cy="533.8" r="51.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset=".5" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#f0f0f0"/>
+		</radialGradient>
+		<linearGradient id="g9" x1="128.9" y1="735.4" x2="199.7" y2="735.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset=".5" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#f0f0f0"/>
+		</linearGradient>
+		<radialGradient id="g10" cx="185.6" cy="730.3" r="42.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset=".5" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#f0f0f0"/>
+		</radialGradient>
+		<linearGradient id="g11" x1="196.4" y1="707.6" x2="254.4" y2="705.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset=".5" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#f0f0f0"/>
+		</linearGradient>
+		<linearGradient id="g12" x1="239.3" y1="761.3" x2="270" y2="761.3" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset=".5" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#f0f0f0"/>
+		</linearGradient>
+		<linearGradient id="g13" x1="502.5" y1="707.6" x2="444.4" y2="705.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset=".5" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#f0f0f0"/>
+		</linearGradient>
+		<linearGradient id="g14" x1="459.6" y1="761.3" x2="428.9" y2="761.3" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset=".5" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#f0f0f0"/>
+		</linearGradient>
+		<linearGradient id="g15" x1="112.2" y1="850" x2="582.7" y2="850" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset=".5" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#f0f0f0"/>
+		</linearGradient>
+		<radialGradient id="g16" cx="329" cy="708.6" r="93.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset=".5" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#f0f0f0"/>
+		</radialGradient>
+		<radialGradient id="g17" cx="334.4" cy="525.4" r="90.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset=".5" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#f0f0f0"/>
+		</radialGradient>
+		<radialGradient id="g18" cx="299.4" cy="343.4" r="154.3" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset=".5" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#f0f0f0"/>
+		</radialGradient>
+	</defs>
+	<style>
+		.s0 { fill: #f5a115;stroke: #010101;stroke-linecap: round;stroke-linejoin: round;stroke-width: 3.8 } 
+		.s1 { fill: url(#g1);stroke: #010101;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5.9 } 
+		.s2 { fill: url(#g2);stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5.2 } 
+		.s3 { fill: #f5a115;stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4.1 } 
+		.s4 { fill: #ffffff;stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 1.8 } 
+		.s5 { fill: #ffffff;stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5.8 } 
+		.s6 { fill: url(#g3);stroke: #010101;stroke-linecap: round;stroke-linejoin: round;stroke-width: 0 } 
+		.s7 { fill: url(#g4);stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5.2 } 
+		.s8 { fill: url(#g5);stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 6.2 } 
+		.s9 { fill: #ffffff;stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4.4 } 
+		.s10 { fill: #ffffff;stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5.1 } 
+		.s11 { fill: url(#g6);stroke: #010101;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5.2 } 
+		.s12 { fill: #ffffff;stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5.6 } 
+		.s13 { fill: url(#g7);stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5.2 } 
+		.s14 { fill: url(#g8);stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 6.2 } 
+		.s15 { fill: url(#g9);stroke: #010101;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5.2 } 
+		.s16 { fill: url(#g10);stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5.2 } 
+		.s17 { fill: url(#g11);stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5.2 } 
+		.s18 { fill: url(#g12);stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 3.7 } 
+		.s19 { fill: url(#g13);stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5.2 } 
+		.s20 { fill: url(#g14);stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 3.7 } 
+		.s21 { fill: url(#g15);stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5.1 } 
+		.s22 { fill: #ffffff;stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5.2 } 
+		.s23 { fill: url(#g16);stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5.1 } 
+		.s24 { fill: #ffffff;stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5 } 
+		.s25 { fill: #ffffff;stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5.3 } 
+		.s26 { fill: url(#g17);stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 6.2 } 
+		.s27 { fill: url(#g18);stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5.7 } 
+		.s28 { fill: #ffffff;stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4 } 
+		.s29 { fill: none;stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5.2 } 
+		.s30 { fill: #ffffff;stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5.7 } 
+		.s31 { fill: #ffffff;stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5.4 } 
+		.s32 { fill: #ffffff;stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4.7 } 
+		.s33 { fill: #ffffff;stroke: #010101;stroke-linecap: round;stroke-linejoin: round;stroke-width: 0 } 
+		.s34 { fill: #f5a115;stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 4 } 
+	</style>
+	<g id="layer1">
+		<g id="g11182">
+			<path id="rect11164" class="s0" d="m299.1 70.3h100.7v59.7h-100.7z"/>
+			<path id="rect11164" class="s0" d="m553 70.3h100.7v59.7h-100.7z"/>
+			<path id="rect11164" class="s0" d="m45.2 70.3h100.7v59.7h-100.7z"/>
+		</g>
+		<path id="rect13853" fill-rule="evenodd" class="s1" d="m192.6 2.9v93.9h-131.3v16.9h576.3v-16.9h-131.3v-93.9h188.9v93.9h-26.6l-6.8 109.7h32.7v513.6h-0.7c-5.6 175.9-157.7 317-344.5 317-186.8 0-338.6-141.1-344.2-317h-0.3v-9.9-503.7h32.6l-5.8-109.7h-27.9v-93.9z"/>
+		<g id="g10267">
+		</g>
+		<g id="g1878">
+			<g id="g1896">
+				<path id="rect1882" fill-rule="evenodd" class="s2" d="m659.6 238.2v474.3h-0.7c-5 162.5-141.6 292.8-309.6 292.8-168 0-304.6-130.3-309.7-292.8h-0.4v-9.1-465.2z"/>
+			</g>
+		</g>
+		<g id="g11168">
+			<g id="g1908">
+				<path id="rect1887" class="s3" d="m528.9 18.3h143.6v62h-143.6z"/>
+				<path id="rect1889" class="s4" d="m539.1 29.1h123.2v13.6h-123.2z"/>
+				<path id="rect1889" class="s4" d="m539.1 53.4h123.2v13.6h-123.2z"/>
+			</g>
+			<g id="use1901">
+				<g id="g13861">
+					<path id="rect13863" class="s5" d="m255 2.8h188.9v94.1h-188.9z"/>
+					<path id="rect13865" class="s3" d="m277.7 18.3h143.5v62h-143.5z"/>
+					<path id="rect13867" class="s4" d="m287.8 29.1h123.3v13.6h-123.3z"/>
+					<path id="rect1889" class="s4" d="m287.8 53.4h123.3v13.6h-123.3z"/>
+				</g>
+			</g>
+			<g id="use1903">
+				<g id="g13873">
+					<path id="rect13877" class="s3" d="m26.4 18.3h143.5v62h-143.5z"/>
+					<path id="rect13879" class="s4" d="m36.5 29.1h123.3v13.6h-123.3z"/>
+					<path id="rect1889" class="s4" d="m36.5 53.4h123.3v13.6h-123.3z"/>
+				</g>
+			</g>
+		</g>
+		<g id="g10213">
+			<path id="rect10211" class="s6" d="m232.1 599.2h230.4v101.7h-230.4z"/>
+			<path id="rect7414" class="s7" d="m219.6 456.5h259.7v129.9h-259.7z"/>
+			<g id="g9218">
+				<g id="g9208">
+					<path id="path9206" fill-rule="evenodd" class="s8" d="m375.9 579.6c0-16.4 9.3-32.1 25.8-43.7 16.6-11.6 39.1-18.1 62.4-18.1 23.4 0 45.9 6.6 62.4 18.2 16.5 11.7 25.7 27.4 25.6 43.8"/>
+					<path id="rect6378" fill-rule="evenodd" class="s9" d="m540.5 571c7.4-0.1 12.8 7.5 12.9 16.9l-0.3 44.7h-26.5v-44.7c1.1-11.4 6.1-16.8 13.9-16.9z"/>
+					<path id="rect6378" fill-rule="evenodd" class="s10" d="m506 571.4c9.7-0.1 16.7 7.5 16.8 16.9l-0.3 44.7h-34.6v-44.7c1.5-11.4 7.9-16.8 18.1-16.9z"/>
+					<path id="rect8309" class="s11" d="m565.4 847h-93.2v-223.1h93.2z"/>
+					<path id="rect8307" class="s12" d="m548.2 821.3c0 20.5-16.6 37.1-37.2 37.1h-10.2c-20.5 0-37.2-16.6-37.2-37.1v-137.2c0-20.5 16.7-37.2 37.2-37.2h10.2c20.6 0 37.2 16.7 37.2 37.2z"/>
+					<path id="rect7412" class="s13" d="m535.8 832c0 16.6-13.4 30-29.9 30h-13.5c-16.5 0-29.9-13.4-29.9-30v-144.1c0-16.5 13.4-29.9 29.9-29.9h13.5c16.5 0 29.9 13.4 29.9 29.9z"/>
+				</g>
+				<g id="g9208">
+					<path id="path9206" fill-rule="evenodd" class="s14" d="m146.7 579.8c0-16.4 9.2-32.1 25.7-43.8 16.5-11.6 38.9-18.2 62.3-18.2 23.4 0 45.9 6.5 62.4 18.1 16.6 11.6 25.9 27.3 25.9 43.7"/>
+					<path id="rect6378" fill-rule="evenodd" class="s9" d="m172.3 587.9v44.7h-26.5l-0.3-44.7c0.1-9.4 5.5-17 12.9-16.9 7.8 0.1 12.7 5.5 13.9 16.9z"/>
+					<path id="rect6378" fill-rule="evenodd" class="s10" d="m211 588.3v44.7h-34.6l-0.3-44.7c0.1-9.4 7.1-17 16.8-16.9 10.1 0.1 16.6 5.5 18.1 16.9z"/>
+					<path id="rect8309" class="s15" d="m133.5 623.9h93.2v223.1h-93.2z"/>
+					<path id="rect8307" class="s12" d="m150.7 684.1c0-20.5 16.6-37.2 37.1-37.2h10.3c20.5 0 37.1 16.7 37.1 37.2v137.2c0 20.5-16.6 37.1-37.1 37.1h-10.3c-20.5 0-37.1-16.6-37.1-37.1z"/>
+					<path id="rect7412" class="s16" d="m163.1 687.9c0-16.5 13.4-29.9 29.9-29.9h13.5c16.5 0 29.9 13.4 29.9 29.9v144.1c0 16.6-13.4 30-29.9 30h-13.5c-16.5 0-29.9-13.4-29.9-30z"/>
+				</g>
+			</g>
+			<g id="g7406">
+				<g id="g7400">
+					<path id="rect7396" class="s17" d="m199 566.4h60.7v278.3h-60.7z"/>
+					<path id="rect7398" class="s18" d="m241.1 684.9c0-6.6 5.3-11.9 11.9-11.9h3.3c6.5 0 11.9 5.3 11.9 11.9v152.7c0 6.6-5.4 11.9-11.9 11.9h-3.3c-6.6 0-11.9-5.3-11.9-11.9z"/>
+				</g>
+				<g id="g7400">
+					<path id="rect7396" class="s19" d="m499.9 844.7h-60.7v-278.3h60.7z"/>
+					<path id="rect7398" class="s20" d="m457.8 837.6c0 6.6-5.3 11.9-11.9 11.9h-3.3c-6.5 0-11.9-5.3-11.9-11.9v-152.7c0-6.6 5.4-11.9 11.9-11.9h3.3c6.6 0 11.9 5.3 11.9 11.9z"/>
+				</g>
+			</g>
+			<g id="g6369">
+				<path id="rect4573" class="s21" d="m116.7 835.3h465.5v29.5h-465.5z"/>
+				<path id="rect9001" class="s22" d="m268.4 698.3h160.7v136.2h-160.7z"/>
+				<path id="rect7211" class="s22" d="m281.5 698.3h134.6v136.8h-134.6z"/>
+				<path id="path9888" fill-rule="evenodd" class="s22" d="m268.3 701.7c0-19.4 8.4-38.1 23.5-51.8 15-13.8 35.5-21.5 56.8-21.5 21.4-0.1 41.9 7.6 57 21.3 15.1 13.8 23.6 32.4 23.6 51.8"/>
+				<path id="rect4611" class="s23" d="m294.2 697.9h109.1v137.4h-109.1z"/>
+				<path id="path7209" fill-rule="evenodd" class="s22" d="m281.4 702.9c0-16 7-31.5 19.7-42.8 12.6-11.4 29.7-17.8 47.6-17.9 17.8 0 35 6.4 47.6 17.7 12.7 11.4 19.8 26.8 19.8 42.8"/>
+				<path id="path4609" fill-rule="evenodd" class="s22" d="m294.2 704.8c0-13.2 5.7-25.8 15.9-35.1 10.2-9.3 24.1-14.5 38.6-14.5 14.5 0 28.4 5.2 38.6 14.4 10.3 9.3 16 21.9 16 35"/>
+			</g>
+			<g id="g6364">
+				<path id="path3661" fill-rule="evenodd" class="s24" d="m231.8 564.1c-0.1-24.5 12.2-48 34.2-65.4 22.1-17.3 52-27.1 83.3-27.1 31.2-0.1 61.2 9.6 83.3 26.9 22.1 17.3 34.5 40.8 34.5 65.3"/>
+				<path id="path3659" fill-rule="evenodd" class="s25" d="m246.1 563.9c-0.1-20.5 10.8-40.2 30.1-54.7 19.4-14.5 45.7-22.7 73.1-22.7 27.4-0.1 53.8 8 73.2 22.5 19.4 14.5 30.3 34.2 30.3 54.7"/>
+				<path id="path3657" fill-rule="evenodd" class="s26" d="m261.3 563.4c0-16.4 9.2-32.2 25.7-43.8 16.5-11.6 38.9-18.2 62.3-18.2 23.4 0 45.9 6.5 62.4 18.1 16.6 11.6 25.9 27.3 25.9 43.7"/>
+			</g>
+			<g id="g1914">
+				<g id="g1916">
+					<g id="g6358">
+						<path id="rect4577" class="s22" d="m340 249.4h18.9v80.7h-18.9z"/>
+						<path id="path4575" fill-rule="evenodd" class="s27" d="m224.5 402.2c-0.1-22.1 13-43.3 36.4-59 23.4-15.7 55.2-24.5 88.4-24.5 33.1 0 65 8.7 88.5 24.3 23.4 15.6 36.6 36.8 36.6 58.9"/>
+						<path id="rect4579" class="s28" d="m316.8 273.4h65.3v13.9h-65.3z"/>
+						<path id="path5468" class="s29" d="m224.3 402.4c78.6-0.3 168.9 0.1 249.7-0.2"/>
+					</g>
+				</g>
+			</g>
+			<g id="g7387">
+				<path id="rect6378" fill-rule="evenodd" class="s30" d="m371.9 411.1v44.7h-44.4l-0.5-44.7c0.1-9.4 9.2-17 21.6-16.9 13.1 0.1 21.4 5.5 23.3 16.9z"/>
+				<path id="rect6378" fill-rule="evenodd" class="s31" d="m416.1 410.9v44.7h-38.9l-0.4-44.7c0.1-9.4 8-17 18.9-16.9 11.5 0.1 18.8 5.5 20.4 16.9z"/>
+				<path id="rect6378" fill-rule="evenodd" class="s31" d="m322.1 410.9v44.7h-38.9l-0.4-44.7c0.1-9.4 8-17 18.9-16.9 11.5 0.1 18.8 5.5 20.4 16.9z"/>
+				<path id="rect6378" fill-rule="evenodd" class="s32" d="m450.5 410.5v44.7h-29.8l-0.3-44.7c0.1-9.4 6.2-17 14.5-16.9 8.8 0.1 14.4 5.5 15.6 16.9z"/>
+				<path id="rect6378" fill-rule="evenodd" class="s32" d="m278.5 410.5v44.7h-29.8l-0.4-44.7c0.1-9.4 6.2-17 14.6-16.9 8.7 0.1 14.3 5.5 15.6 16.9z"/>
+				<path id="rect6378" fill-rule="evenodd" class="s28" d="m476.3 412v42.9h-22l-0.2-42.9c0-9.1 4.5-16.4 10.7-16.3 6.5 0.1 10.6 5.3 11.5 16.3z"/>
+				<path id="rect6378" fill-rule="evenodd" class="s28" d="m244.8 412v42.9h-22l-0.2-42.9c0-9.1 4.5-16.4 10.7-16.3 6.5 0.1 10.6 5.3 11.5 16.3z"/>
+			</g>
+			<g id="g7380">
+				<path id="path7307" fill-rule="evenodd" class="s31" d="m369.3 578.5v44.6h-39.3l-0.5-44.6c0.2-9.4 8.2-17 19.2-16.9 11.6 0.1 19 5.5 20.6 16.9z"/>
+				<path id="rect6378" fill-rule="evenodd" class="s10" d="m408.6 578.3v44.6h-34.6l-0.3-44.6c0.1-9.4 7.1-17 16.8-16.9 10.2 0.1 16.6 5.5 18.1 16.9z"/>
+				<path id="rect6378" fill-rule="evenodd" class="s10" d="m325.2 578.3v44.6h-34.5l-0.4-44.6c0.1-9.4 7.1-17 16.8-16.9 10.2 0.1 16.7 5.5 18.1 16.9z"/>
+				<path id="rect6378" fill-rule="evenodd" class="s9" d="m439.1 577.9v44.7h-26.4l-0.3-44.7c0.1-9.4 5.4-17 12.8-16.9 7.8 0.1 12.8 5.5 13.9 16.9z"/>
+				<path id="rect6378" fill-rule="evenodd" class="s9" d="m286.5 577.9v44.7h-26.4l-0.3-44.7c0.1-9.4 5.4-17 12.8-16.9 7.8 0.1 12.8 5.5 13.9 16.9z"/>
+			</g>
+			<g id="g9230">
+				<g id="g9234">
+					<path id="rect9324" class="s33" d="m342.9 266.9h13v24.7h-13z"/>
+				</g>
+			</g>
+		</g>
+		<path id="rect7697" class="s34" d="m58.8 136.4h581.3v66.5h-581.3z"/>
+		<g id="g3156">
+			<path id="rect1403" class="s28" d="m76.2 147.5h546.5v14.5h-546.5z"/>
+			<path id="rect1403" class="s28" d="m76.2 176.9h546.5v14.4h-546.5z"/>
+		</g>
+	</g>
+</svg>
