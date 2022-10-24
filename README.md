@@ -1180,11 +1180,11 @@
             <td valign="middle">Исперих (Isperih)</td>
             <td valign="middle" align="center">
                 <a href="files/Isperih/">
-                    <img src="assets/images/ai-false.png">
+                    <img src="assets/images/ai-true.png">
                     <img src="assets/images/cdr-false.png">
-                    <img src="assets/images/eps-false.png">
-                    <img src="assets/images/pdf-false.png">
-                    <img src="assets/images/svg-false.png">
+                    <img src="assets/images/eps-true.png">
+                    <img src="assets/images/pdf-true.png">
+                    <img src="assets/images/svg-true.png">
                 </a>
             </td>
         </tr>
