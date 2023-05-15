@@ -1686,9 +1686,9 @@
                 <a href="files/Lyaskovets/">
                     <img src="assets/images/ai-false.png">
                     <img src="assets/images/cdr-false.png">
-                    <img src="assets/images/eps-false.png">
-                    <img src="assets/images/pdf-false.png">
-                    <img src="assets/images/svg-false.png">
+                    <img src="assets/images/eps-true.png">
+                    <img src="assets/images/pdf-true.png">
+                    <img src="assets/images/svg-true.png">
                 </a>
             </td>
         </tr>
@@ -2706,9 +2706,9 @@
                 <a href="files/Sungurlare/">
                     <img src="assets/images/ai-false.png">
                     <img src="assets/images/cdr-false.png">
-                    <img src="assets/images/eps-false.png">
-                    <img src="assets/images/pdf-false.png">
-                    <img src="assets/images/svg-false.png">
+                    <img src="assets/images/eps-true.png">
+                    <img src="assets/images/pdf-true.png">
+                    <img src="assets/images/svg-true.png">
                 </a>
             </td>
         </tr>
@@ -2814,9 +2814,9 @@
                 <a href="files/Tran/">
                     <img src="assets/images/ai-false.png">
                     <img src="assets/images/cdr-false.png">
-                    <img src="assets/images/eps-false.png">
-                    <img src="assets/images/pdf-false.png">
-                    <img src="assets/images/svg-false.png">
+                    <img src="assets/images/eps-true.png">
+                    <img src="assets/images/pdf-true.png">
+                    <img src="assets/images/svg-true.png">
                 </a>
             </td>
         </tr>
@@ -2922,9 +2922,9 @@
                 <a href="files/Hisarya/">
                     <img src="assets/images/ai-false.png">
                     <img src="assets/images/cdr-false.png">
-                    <img src="assets/images/eps-false.png">
-                    <img src="assets/images/pdf-false.png">
-                    <img src="assets/images/svg-false.png">
+                    <img src="assets/images/eps-true.png">
+                    <img src="assets/images/pdf-true.png">
+                    <img src="assets/images/svg-true.png">
                 </a>
             </td>
         </tr>
